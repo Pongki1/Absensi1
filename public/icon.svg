@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#1D4ED8"/>
+  <rect x="36" y="36" width="440" height="440" rx="88" fill="#1E40AF" stroke="#60A5FA" stroke-opacity="0.3" stroke-width="4"/>
+  <!-- QR Frame Corners -->
+  <path d="M128 192V144C128 135.163 135.163 128 144 128H192" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round"/>
+  <path d="M320 128H368C376.837 128 384 135.163 384 144V192" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round"/>
+  <path d="M128 320V368C128 376.837 135.163 384 144 384H192" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round"/>
+  <path d="M320 384H368C376.837 384 384 376.837 384 368V320" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round"/>
+  <!-- Inner QR Grid + Green Check -->
+  <rect x="172" y="172" width="60" height="60" rx="10" fill="#FFFFFF"/>
+  <rect x="280" y="172" width="60" height="60" rx="10" fill="#FFFFFF"/>
+  <rect x="172" y="280" width="60" height="60" rx="10" fill="#FFFFFF"/>
+  <circle cx="310" cy="310" r="56" fill="#16A34A" stroke="#FFFFFF" stroke-width="10"/>
+  <path d="M286 310L302 326L336 292" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

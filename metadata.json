@@ -1,0 +1,6 @@
+{
+  "name": "SMART ABSENSI TKIT AL-I'ANAH",
+  "description": "Aplikasi web PWA untuk pengelolaan absensi siswa TK dan SD berbasis QR Code di TKIT AL-I'ANAH.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
